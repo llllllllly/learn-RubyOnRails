@@ -1,1 +1,1 @@
-# Ruby or Rails 学习 demo
+# Ruby on Rails 学习 demo
